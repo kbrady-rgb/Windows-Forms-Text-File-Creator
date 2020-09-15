@@ -1,0 +1,17 @@
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend File.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Kabrina\Documents\C#\Friend File(1)\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\bin\Debug\Friend File.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\bin\Debug\Friend File.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\obj\x86\Debug\Friend File.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\obj\x86\Debug\Friend_File.Form1.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\obj\x86\Debug\Friend_File.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\obj\x86\Debug\Friend File.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\obj\x86\Debug\Friend File.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 5\FileIOBrady\Friend File\Friend File\obj\x86\Debug\Friend File.pdb
